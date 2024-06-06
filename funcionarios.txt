@@ -1,0 +1,29 @@
+	Codigo do funcionario: 0405-1
+	Cargo: 
+	Nome: 
+	CPF: 
+	Data de nascimento: 0/0/0
+	Telefone: 
+	Endereco: 
+	CEP: 
+	Local: 
+	Numero da casa: 
+	Bairro: 
+	Cidade: 
+	Estado: 
+	Senha do funcionario: 
+		Codigo do funcionario: 1201-1
+	Cargo: Nome: 
+	Nome: Gabriel Gomes
+	CPF: 
+	Data de nascimento: 0/0/0
+	Telefone: 
+	Endereco: 
+	CEP: 
+	Local: 
+	Numero da casa: 
+	Bairro: 
+	Cidade: 
+	Estado: 
+	Senha do funcionario: 
+	
